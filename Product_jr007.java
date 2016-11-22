@@ -1,7 +1,0 @@
-// Create a Java class representing a Product
-// It should be based on the template here.
-// It should be named Product_<<NICKNAME + LAST THREE OF YOUR EID>>.java   (JDAWG_007.java)
-
-class Product {
-	private String sku = "jr007";
-}
